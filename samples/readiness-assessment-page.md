@@ -5,9 +5,9 @@ meta_description: "Take our free 2-minute assessment to discover how ready your 
 meta_title: "Free Automation Readiness Assessment | MakeAutomation"
 ---
 
-## Is Your Business Ready for Automation?
+## Is Your Business Ready for Automation? Take the Free Assessment
 
-Not sure where to start with automation? Our free assessment evaluates your processes, technology, team readiness, and business goals—then delivers a personalized score with actionable next steps.
+Not sure where to start with automation? You're not alone. Most businesses know they should automate but don't know if they're ready or where to begin. Our free assessment evaluates your processes, technology, team readiness, and business goals—then delivers a personalized score with actionable next steps.
 
 **Takes just 2 minutes. No email required.**
 
@@ -15,25 +15,34 @@ Not sure where to start with automation? Our free assessment evaluates your proc
 
 ---
 
-## What You'll Discover
+## What Does the Assessment Measure?
 
-Our assessment evaluates four key areas:
+Our assessment evaluates four key areas that determine automation success:
 
-**Process Readiness** — How much time your team spends on manual, repetitive tasks and whether your workflows are documented.
+**Process Readiness (35% of score)**
+How much time your team spends on manual, repetitive tasks and whether your workflows are documented. Businesses with clear, repetitive processes see the fastest automation ROI.
 
-**Technology Stack** — Your current tools, integration capabilities, and technical resources available.
+**Technology Stack (25% of score)**
+Your current tools, integration capabilities, and API availability. Modern cloud tools with open APIs are easier and cheaper to automate.
 
-**Team Readiness** — How open your team is to new tools and whether leadership supports automation initiatives.
+**Team Readiness (20% of score)**
+How open your team is to new tools and whether leadership supports automation initiatives. Change management is often the biggest factor in automation success.
 
-**Business Readiness** — Whether you have clear automation goals, budget allocated, and realistic timelines.
+**Business Readiness (20% of score)**
+Whether you have clear automation goals, budget allocated, and realistic timelines. Projects with defined objectives succeed 3x more often.
 
 ---
 
-## How It Works
+## Understanding Your Score
 
-1. **Answer 13 quick questions** about your current processes and goals
-2. **Get your readiness score** from 0-100 with category breakdown
-3. **Receive personalized recommendations** for your next steps
+| Score | Level | What It Means |
+|-------|-------|---------------|
+| 80-100 | Advanced | Ready to scale automation across your organization |
+| 60-79 | Intermediate | Great foundation—time to accelerate your automation journey |
+| 40-59 | Developing | Good starting point with clear opportunities for quick wins |
+| 0-39 | Beginning | Perfect time to start with foundational steps |
+
+Every score comes with specific recommendations tailored to your situation. There's no "bad" score—just different starting points.
 
 ---
 
@@ -43,15 +52,25 @@ Starting automation without understanding your readiness is like building a hous
 
 - **Identify quick wins** — Find high-impact, low-effort automation opportunities
 - **Avoid common pitfalls** — Know which areas need attention before you invest
-- **Build a business case** — Use your score to justify automation investment
+- **Build a business case** — Use your score to justify automation investment to stakeholders
 - **Prioritize effectively** — Focus on what will deliver the best ROI first
+- **Set realistic expectations** — Understand the timeline and resources needed
+
+---
+
+## What Happens After the Assessment?
+
+1. **Review your score** — See your overall readiness and category breakdown
+2. **Read your recommendations** — Get specific next steps based on your weaknesses
+3. **Save your reference number** — Use it when booking a call so we can discuss your results
+4. **Book a strategy call** — Get personalized guidance from our automation experts
 
 ---
 
 ## Ready for a Deeper Analysis?
 
-The assessment gives you a solid starting point. For a comprehensive automation strategy customized to your business:
+The assessment gives you a solid starting point. For a comprehensive automation strategy customized to your business, book a free strategy call.
 
-**[Book a Free Strategy Call →](https://makeautomation.co/contact)**
+We'll review your results together, identify your highest-ROI opportunities, and create a prioritized automation roadmap.
 
-We'll review your results together and create a prioritized automation roadmap.
+**[Book a Free Strategy Call →](/contact)**
